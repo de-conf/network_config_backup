@@ -1,0 +1,4 @@
+ip,username,password,port,platform,role
+10.0.0.1,username,password,22,ruijie_os,Wife-Controller-AC
+10.0.0.2,username,passowrd,22,ruijie_os,Core-Switch
+10.0.0.3,username,password,22,hp_comware,Firewall
